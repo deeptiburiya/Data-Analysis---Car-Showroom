@@ -11,3 +11,7 @@ sklearn.datasets
 sklearn.model_selection
 sklearn.ensemble
 matplotlib
+sklearn.model_selection
+sklearn.neighbors
+sklearn.pipeline
+sklearn.preprocessing
